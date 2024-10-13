@@ -1,6 +1,8 @@
 # Project-353
 Bundled Small Scale Solar Power Project by M/s Puneet Syntex Private Limited
 
+![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3DnnlM%252Bj2wStIG3sirjpW8SA%253D%253D&size=2)
+
 Applied Baseline Methodology:
 AMS-I. D: “Grid connected renewable electricity
 generation”, version 18
